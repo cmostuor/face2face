@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BasicUsageEnvironment">
+</Property><Property Name="Projektmappendatei" Value="C:\Users\Paul\Documents\Bachelor\live\BasicUsageEnvironment\BasicUsageEnvironment.sln">
+</Property><Property Name="Date" Value="Montag, 7. Dezember 2015">
+</Property><Property Name="Time" Value="17:24:52">
+</Property><Property Name="Protokollnummer" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="BasicUsageEnvironment" Source="BasicUsageEnvironment.mak" Description="Converting project file 'C:\Users\Paul\Documents\Bachelor\live\BasicUsageEnvironment\BasicUsageEnvironment.mak'.">
+</Event><Event ErrorLevel="2" Project="C:\Users\Paul\Documents\Bachelor\live\BasicUsageEnvironment\BasicUsageEnvironment.mak" Source="" Description="The following error has occurred during XML parsing:&#xA;&#xA;File: C:\Users\Paul\Documents\Bachelor\live\BasicUsageEnvironment\BasicUsageEnvironment.mak&#xA;Line: 1&#xA;Column: 1&#xA;Error Message:&#xA;Fehlerhafte Syntax in einem Dokument.&#xA;&#xA;The file 'C:\Users\Paul\Documents\Bachelor\live\BasicUsageEnvironment\BasicUsageEnvironment.mak' has failed to load.">
+</Event><Event ErrorLevel="2" Project="BasicUsageEnvironment" Source="BasicUsageEnvironment.mak" Description="Das Endtag 'xs:choice' stimmt nicht mit dem Starttag 'xs:sequence' überein.&#xA;">
+</Event><Event ErrorLevel="2" Project="BasicUsageEnvironment" Source="BasicUsageEnvironment.mak" Description="Fehler beim Aktualisieren des Projekts.">
+</Event><Event ErrorLevel="3" Project="BasicUsageEnvironment" Source="BasicUsageEnvironment.mak" Description="Nicht konvertiert">
+</Event><Event ErrorLevel="2" Project="" Source="BasicUsageEnvironment.mak" Description="Fehler beim Aktualisieren des Projekts.">
+</Event></UpgradeLog>
